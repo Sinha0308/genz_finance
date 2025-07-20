@@ -1,4 +1,3 @@
-// 📄 src/components/QuickActions.jsx
 
 const QuickActions = ({
   goToAddTransaction,

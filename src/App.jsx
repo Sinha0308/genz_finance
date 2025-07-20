@@ -1,4 +1,4 @@
-// 📄 src/App.jsx
+
 import { useState } from "react";
 import Home from "./pages/Home";
 import DashboardPage from "./pages/DashboardPage";

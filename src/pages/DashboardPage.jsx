@@ -1,4 +1,4 @@
-// 📄 src/pages/DashboardPage.jsx
+
 import logo from "../assets/logo.jpg";
 import Dashboard from "../components/Dashboard";
 

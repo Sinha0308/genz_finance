@@ -1,4 +1,4 @@
-// src/components/SavingsGoals.jsx
+
 const SavingsGoals = ({ balance, goals, goToChallengesPage }) => {
   return (
     <div className="bg-white p-4 rounded-xl shadow border">

@@ -1,4 +1,4 @@
-// 📄 src/pages/PetPage.jsx
+
 import logo from "../assets/logo.jpg";
 
 const PetPage = ({ transactions, goBack }) => {

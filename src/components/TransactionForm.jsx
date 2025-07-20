@@ -1,11 +1,11 @@
-// src/components/TransactionForm.jsx
+
 import { useState } from "react";
 
 const TransactionForm = ({
   transactions,
   setTransactions,
   nextStep,
-  goBackButton = false, // controls whether to show 'Next' or 'Go Back'
+  goBackButton = false, 
 }) => {
   const [type, setType] = useState("income");
   const [amount, setAmount] = useState("");

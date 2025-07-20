@@ -1,4 +1,4 @@
-// src/pages/AddTransactionPage.jsx
+
 import TransactionForm from "../components/TransactionForm";
 import logo from "../assets/logo.jpg";
 
